@@ -11,7 +11,7 @@
 </div>
 <br>
 
--  Estou estudando React e Typescript atualmente.
+-  Estou estudando atualmente:
 <div style="display: inline_block">
   <img align="center" alt="JP-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="JP-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
