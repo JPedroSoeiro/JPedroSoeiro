@@ -1,4 +1,4 @@
-# Olá, eu sou o João Pedro! 👋
+# Olá, eu sou o João Pedro! 
 
 ### Desenvolvedor Front-end | Next.js & React
 
