@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Front-end | Next.js & React
 
-Atualmente, atuo como estagiário de desenvolvimento Front-end, focado em criar interfaces modernas e funcionais. Estou em constante evolução, aprofundando meus conhecimentos no ecossistema JavaScript e explorando novas linguagens para ampliar meu leque de soluções.
+Atualmente, atuo no desenvolvimento Front-end, focado em criar interfaces modernas e funcionais. Estou em constante evolução, aprofundando meus conhecimentos no ecossistema JavaScript e explorando novas linguagens para ampliar meu leque de soluções.
 
 ---
 
